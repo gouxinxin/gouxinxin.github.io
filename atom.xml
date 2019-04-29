@@ -3,18 +3,18 @@
   <title>YanXin😄</title>
   
   <subtitle>怎么办么，怎么办</subtitle>
-  <link href="/child/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/child/"/>
+  <link href="http://yoursite.com/"/>
   <updated>2019-04-26T02:21:55.000Z</updated>
-  <id>http://yoursite.com/child/</id>
+  <id>http://yoursite.com/</id>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/child/2019/04/26/hello-world/"/>
-    <id>http://yoursite.com/child/2019/04/26/hello-world/</id>
+    <link href="http://yoursite.com/2019/04/26/hello-world/"/>
+    <id>http://yoursite.com/2019/04/26/hello-world/</id>
     <published>2019-04-26T02:21:55.000Z</published>
     <updated>2019-04-26T02:21:55.000Z</updated>
     
