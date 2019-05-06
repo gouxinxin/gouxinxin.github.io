@@ -80,7 +80,7 @@
     <link href="http://yoursite.com/2019/04/26/hello-world/"/>
     <id>http://yoursite.com/2019/04/26/hello-world/</id>
     <published>2019-04-26T02:21:55.000Z</published>
-    <updated>2019-05-06T06:58:30.000Z</updated>
+    <updated>2019-05-06T07:19:33.000Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to yanxin 的博客.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="第一目录"><a href="#第一目录" class="headerlink" title="第一目录"></a>第一目录</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ 1</span><br></pre></td></tr></table></figure><h3 id="第二目录"><a href="#第二目录" class="headerlink" title="第二目录"></a>第二目录</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ 2</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="第三目录"><a href="#第三目录" class="headerlink" title="第三目录"></a>第三目录</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ 3</span><br></pre></td></tr></table></figure><h3 id="第四目录"><a href="#第四目录" class="headerlink" title="第四目录"></a>第四目录</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ 4</span><br></pre></td></tr></table></figure>]]></content>
     
@@ -97,11 +97,7 @@
       <category term="world" scheme="http://yoursite.com/categories/world/"/>
     
     
-      <category term="11" scheme="http://yoursite.com/tags/11/"/>
-    
-      <category term="22" scheme="http://yoursite.com/tags/22/"/>
-    
-      <category term="31" scheme="http://yoursite.com/tags/31/"/>
+      <category term="yanxin" scheme="http://yoursite.com/tags/yanxin/"/>
     
   </entry>
   
